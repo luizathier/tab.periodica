@@ -1,0 +1,184 @@
+body {
+background-color: beige;
+}
+
+.bloco{
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: left;
+
+}
+.cinza {
+    background-color: grey;
+}
+.cinza:hover {
+    background-color: rgb(75, 72, 72);
+}
+.roxo {
+    background-color: purple;
+}
+.roxo:hover {
+    background-color: rgb(79, 9, 79);
+}
+.lilas {
+    background-color: rgb(197, 138, 183);
+}
+.lilas:hover {
+    background-color: rgb(139, 78, 125);
+}
+.rosa {
+    background-color: pink;
+}
+.rosa:hover {
+    background-color: rgb(255, 129, 150);
+}
+.amarelo {
+    background-color: yellow;
+}
+.amarelo:hover {
+    background-color: rgb(169, 169, 0);
+}
+.laranjaforte  {
+    background-color: orangered;
+}
+.laranjaforte:hover {
+    background-color: rgb(158, 47, 6);
+}
+.laranja {
+    background-color: orange;
+}
+.laranja:hover {
+    background-color: rgb(182, 118, 1);
+}
+.azul {
+    background-color: lightblue;
+}
+.azul:hover {
+    background-color: rgb(99, 147, 163);
+}
+.verde {
+    background-color: greenyellow;
+}
+.verde:hover {
+    background-color: rgb(124, 202, 6);
+}
+.verdeforte {
+    background-color: green;
+}
+.verdeforte:hover {
+    background-color: rgb(17, 83, 17);
+}
+.natomico {
+    width: 100px;
+    height: 20px;
+    display: block;
+    float: left;
+    padding-top: 5px;
+    padding-right: 15px;
+    text-align: right;
+}
+.simbolo {
+    width: 100px;
+    height: 40px;
+    display: block;
+    float: left;
+    padding-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.nome {
+    width: 100px;
+    height: 20px;
+    display: block;
+    float: left;
+    padding-left: 5px;
+    font-size: 18px;
+}
+.col1 {
+    width: 100px;
+    height: 700px;
+    display: block;
+    float: left;
+}
+.col2 {
+    width: 100px;
+    height: 600px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 100px;
+}
+.col3{
+    width: 1000px;
+    height: 400px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 300px;
+}
+
+.col4 {
+    width: 100px;
+    height: 600px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 100px;
+}
+.col5 {
+    width: 100px;
+    height: 600px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 100px;
+}
+
+.col6 {
+    width: 100px;
+    height: 600px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 100px;
+}
+.col7 {
+    width: 100px;
+    height: 600px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 100px;
+}
+.col8{
+    width: 100px;
+    height: 600px;
+    display:block;
+    float: left;
+    position: relative;
+    top: 100px;
+}
+.col9{
+    width: 100px;
+    height: 700px;
+    display:block;
+    float: left;
+    
+}
+.col10{
+    width: 1500px;
+    height: 200px;
+    display:block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 300px;
+    
+}
+.titulo{
+    display: block;
+    width: 100px;
+    height: 100px;
+    float: right;
+    font-size: 20px;
+}
